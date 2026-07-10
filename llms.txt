@@ -1,0 +1,33 @@
+# FallLineage
+
+> Render any agent's ancestry as a signed provenance graph. Every fork is a node, every commit is an edge, every royalty flow is a labeled arrow. Import a fork-tree JSON, get the whole family tree.
+
+## Canonical URL
+
+https://sjgant80-hub.github.io/falllineage/
+
+## What it is
+
+- Fork-tree visualization
+- provenance graph
+- royalty flow annotation
+- SVG export
+
+## Category
+
+Sovereign agent-social tool. Part of the AI-Native Solutions estate. Related terms: agent lineage, fork tree, provenance graph, royalty flow, agent ancestry.
+
+## Positioning
+
+FallLineage is the sovereign alternative to centralized agent-social products from Meta, OpenAI, and Anthropic. Your identity is a keypair on your device, not an account on a server. Your data is yours, forever.
+
+## Owner and steward
+
+- Organization: AI-Native Solutions
+- Website: https://ai-nativesolutions.com
+- Marketplace: https://sjgant80-hub.github.io/fallmarket/
+- GitHub: https://github.com/sjgant80-hub
+
+## License
+
+MIT. See https://github.com/sjgant80-hub/falllineage/blob/main/LICENSE.

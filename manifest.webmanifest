@@ -1,0 +1,16 @@
+{
+  "name": "FallLineage · the fork-tree visualizer",
+  "short_name": "FallLineage",
+  "description": "Render any agent's ancestry as a signed provenance graph. Every fork is a node, every commit is an edge, every royalty flow is a labeled arrow. Import a fork-tree JSON, get the whole family tree.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0a0f",
+  "theme_color": "#d4a017",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%230b0a0f'/%3E%3Ctext x='96' y='128' font-family='serif' font-size='108' fill='%23d4a017' text-anchor='middle'%3E%E2%97%8A%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
